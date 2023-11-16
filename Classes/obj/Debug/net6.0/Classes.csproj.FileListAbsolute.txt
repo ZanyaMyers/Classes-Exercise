@@ -1,0 +1,14 @@
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\ref\Classes.dll

@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Car toyota = new Car(); // Dot notation 
+            toyota.Year = 2011;
+            toyota.Make = "Toyota";
+            toyota.Model = "Camry";
+           
+            Console.WriteLine($"{toyota.Year} {toyota.Make} {toyota.Model}");
+          
+         
+
+
+            
         }
     }
+
+
 }
